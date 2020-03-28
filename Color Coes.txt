@@ -1,0 +1,3 @@
+#00CECB - Blue Previous Color
+
+#51A0D5 - New Color
